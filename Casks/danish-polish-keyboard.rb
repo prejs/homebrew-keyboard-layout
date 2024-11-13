@@ -1,6 +1,6 @@
 cask "danish-polish-keyboard" do
-  version "1.1"
-  sha256 "0425e88afc011c737b2b1f0f84d161502338dc2861777d836980c81bcd7bbe25"
+  version "1.2"
+  sha256 "ea27cf4da169158dda867c9dde15ec0094dd16e0563a3201664cc1e8e52973bf"
 
   url "https://github.com/prejs/keyboard-layout/archive/refs/tags/v#{version}.tar.gz"
   name "Danish & Polish Layouts"
